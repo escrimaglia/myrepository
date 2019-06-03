@@ -1,4 +1,4 @@
-# Myrepository
+## Myrepository
 Personal Repository - What I do
 
 •	Extensive business and technology experience with the ability to help organizations and clients understand how investments in Technology based solutions benefit their business through cost savings, competitive advantage, and/or new service opportunities.
@@ -11,7 +11,7 @@ Personal Repository - What I do
 
 •	Ability to lead a team, to mentor, and to work as an individual contributor. 
 
-# Specialties: 
+## Specialties: 
 Vision in Business and Technology,
 Business Management,
 Business Development,
