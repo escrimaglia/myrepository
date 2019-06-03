@@ -1,4 +1,4 @@
-# myrepository
+# Myrepository
 Personal Repository - What I do
 
 •	Extensive business and technology experience with the ability to help organizations and clients understand how investments in Technology based solutions benefit their business through cost savings, competitive advantage, and/or new service opportunities.
