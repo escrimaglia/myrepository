@@ -11,3 +11,19 @@ Personal Repository - What I do
 
 •	Ability to lead a team, to mentor, and to work as an individual contributor. 
 
+# Specialties: 
+Vision in Business and Technology
+Business Management
+Business Development
+Alliances Management
+CCIE, CID, CSCI
+Marketing
+C++
+API
+Python
+Meraki Certified
+Network Programmability
+Automation
+Ansible
+NetDevOps
+
