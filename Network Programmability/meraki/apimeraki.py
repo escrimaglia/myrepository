@@ -58,7 +58,7 @@ def getNetwoks(_orgId, _apikey):
 
 if __name__ == "__main__":
 
-    apiKey = "042fe44c64893b534bd565ab5456fe4182160c1c"
+    apiKey = "xxxxxxxxxxxx"
 
     orga = getOrganizaciones(apiKey)
 
