@@ -1,0 +1,15 @@
+Ejercicios
+
+1. En GitHub crear un usuario.
+2. Crear un repositorio en Github que se llame devnet_dc
+3. Crear un programa con un editor de texto con tres instrucciones Print
+4. verificar que corre correctamente con python primer_programa.py
+5. Subirlo a repositorio creado por Uds:
+    1. en el directorio donde esta el programa (working directory)
+    2. git init 
+    3. git remote add origin <url del repositorio creado>
+    4. git status
+    5. git add .
+    6. git commit -m "primer commit"
+    7. git push origin master
+
