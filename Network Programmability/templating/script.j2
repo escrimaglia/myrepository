@@ -1,0 +1,8 @@
+{# Ejemplo script Jinja2 #}
+hostname {{devices.hostname}}
+
+{% for ele in devices.interfaces %}
+interface {{ele.name}}
+ description {{ele.description}}
+ ip address {{ele.ip_address}}
+{% endfor %}

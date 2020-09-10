@@ -60,7 +60,6 @@ if __name__ == "__main__":
     print ("enable mode: ","#" in device.find_prompt())
     if "#" in device.find_prompt():
         source_cmd = ""
-        #cmd = ["logging buffered 50000", "exit", "sh version"]
         cmd = "show running-config"
         salida_cmd = send_command(device,source_cmd,cmd)
         print (salida_cmd)
