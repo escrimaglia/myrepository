@@ -98,7 +98,7 @@ def writeMessage(_token, _msgRoomId, _msg):
 if __name__ == "__main__":
     roomId = "Y2lzY29zcGFyazovL3VzL1JPT00vZjg0OWQ0YzAtODdmYi0xMWU5LWE4MzUtMjk0NTQyMzdiODAx"
     msgRoomId = "Y2lzY29zcGFyazovL3VzL1JPT00vZjg0OWQ0YzAtODdmYi0xMWU5LWE4MzUtMjk0NTQyMzdiODAx"
-    token = "OWFlYTI1ODQtNDdhZS00YjZlLWExOTQtYWI3YTY0N2YxYWIyZjA0ZGUxODMtZTU0"
+    token = "XXXXXXXXXXX"
     msg = "proceso MPLS-L3-VPN finalizado"
 
     getListRooms(token)
